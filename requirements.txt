@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+torch
+diffusers
+transformers
+accelerate
+safetensors
